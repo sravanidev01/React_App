@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-img{
+    background-image: url(../../Img/IBC.jpg);
+    background-color: bisque;
+}
+h6{
+    color: #000;
+    font-size: 40px;
+}
